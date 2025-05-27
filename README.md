@@ -7,6 +7,3 @@ Les données sont issues de l'API d'Ile de France Mobilités.
 Les données saisies pour les itinéraires et pour la clé API sont stockées en local dans le navigateur et nulle part ailleurs. Si vous changez de terminal ou de navigateur les données ne seront pas transposées (j'y travaille).
 
 Pour fonctionner ce site a uniquement besoin que vous obteniez votre clé API gratuite sur le site https://data.iledefrance-mobilites.fr
-
-![image](https://github.com/user-attachments/assets/37f9878c-7f8d-42ed-bfa4-972d9516d59f)
-
